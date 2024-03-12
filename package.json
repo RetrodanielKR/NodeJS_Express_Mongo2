@@ -12,12 +12,14 @@
   },
   "keywords": [
     "NodeJs"
-    
   ],
   "author": "Jorge Urmendez & Daniel Olarte",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RetrodanielKR/NodeJS_Express_Mongo2/issues"
   },
-  "homepage": "https://github.com/RetrodanielKR/NodeJS_Express_Mongo2#readme"
+  "homepage": "https://github.com/RetrodanielKR/NodeJS_Express_Mongo2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
